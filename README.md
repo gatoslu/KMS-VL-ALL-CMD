@@ -1,5 +1,6 @@
 # KMS-VL-ALL-CMD
-Online/Offline KMS Activator for Microsoft Windows/Office/VisualStudio VL Products
+
+## Online/Offline KMS Activator for Microsoft Windows/Office/VisualStudio VL Products
 
 # How to use ?
 For KMS Activation of Volume Licensed Products:
@@ -76,5 +77,5 @@ Changelog:
 - replaced xcopy with robocopy (Thanks to rpo), but kept DEL lines for now, as Manual Users do not require them, need to think about merits and demerits of this.
 - Minor Cosmetics
 
-# snyc from DML
+# SYNC from DML
 https://forums.mydigitallife.net/threads/kms_vl_all-online-offline-kms-activator.63471/
