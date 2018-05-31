@@ -1,7 +1,7 @@
 # KMS-VL-ALL-CMD
 Online/Offline KMS Activator for Microsoft Windows/Office/VisualStudio VL Products
 
-#How to use ?
+# How to use ?
 For KMS Activation of Volume Licensed Products:
 1. Run KMS-VL-ALL.cmd as Administrator.
 2. Done.
@@ -9,24 +9,24 @@ For VL conversion of Office 2016 C2R:
 1. Run Convert-Office2016C2R.cmd as Administrator.
 2. Done.
 
-#Defaults:
+# Defaults:
 Manual mode/No Auto-renewal Task (_Task=0); For auto-renewal task to be installed change it to _Task=1
 Offline mode (_OfflineMode=1); For Online mode change it to _OfflineMode=0
 Non-Debug mode (_Debug=0); For debug mode change it to _Debug=1
 Custom ePIDs (_RandomLevel=0); For random ePIDs change it to _RandomLevel=1 or 2
 
-#Install Auto-Renewal Task:
+# Install Auto-Renewal Task:
 - Open KMS-VL-ALL.cmd in Notepad, change _Task=0 to _Task=1, save and run.
 - Keep KMS-VL-ALL folder in the same location
 - Exclude the folder in Anti-Virus software
 
-#Did not Work ?
+# Did not Work ?
 - Open KMS-VL-ALL.cmd in Notepad
 - Change _Debug=0 to _Debug=1
 - Run as Admin
 - Copy Paste the log file contents in CODE tags or upload the log file
 
-#Supported Microsoft Products:
+# Supported Microsoft Products:
 (32-bit and 64-bit)
 Windows Vista/7/8/8.1/10 (v1709 RS3) All VL Editions
 Windows Server 2008/2008R2/2012/2012R2/2016 (v1709 RS3) All Editions
@@ -39,14 +39,14 @@ Visual Studio 2017 Enterprise
 
 Retail/OEM/MAK Genuine Activations are UNAFFECTED and Converts Notice Period/OOBE-Grace period windows to VL IF they are supported and are then activated.
 
-#Supported Retail/MAK Unactivated Editions:
+# Supported Retail/MAK Unactivated Editions:
 Win Vista(Business/Enterprise) 7/8/8.1/10 Pro Retail/MAK and their Enterprise editions
 Server 2008/2008 R2/2012/2012R2/2016 Retail, MAK editions
 Office 2010/2013/2016 MAK editions
 Office 2016 C2R edition
 
-#Credits (In chronological order) :
--qewlpal
+# Credits (In chronological order) :
+- qewlpal
 - ZWT, nosferati87, CODYQX4, letsgoawayhell, Phazor, mikmik38, deagles, FreeStyler, ColdZero, Hotbird64 and everyone who contributed to KMS Server emulator development
 - MasterDisaster for original script
 - abbodi1406 for Huge Contribution and Co-Authoring
@@ -75,5 +75,5 @@ Changelog:
 - replaced xcopy with robocopy (Thanks to rpo), but kept DEL lines for now, as Manual Users do not require them, need to think about merits and demerits of this.
 - Minor Cosmetics
 
-snyc from DML
+# snyc from DML
 https://forums.mydigitallife.net/threads/kms_vl_all-online-offline-kms-activator.63471/
