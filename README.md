@@ -55,7 +55,7 @@ For VL conversion of Office 2016 C2R:
 and MDL Community for feedback and bug reports.
 
 ## Changelog:
-7.0RC [2018-03-28]
+### 7.0RC [2018-03-28]
 - Modified firewall rules (Thanks to abbodi1406)
 - Office product check bug fixes (Thanks to abbodi1406)
 - Office 2019 Professional Plus C2R keys added (Thanks to abbodi1406)
