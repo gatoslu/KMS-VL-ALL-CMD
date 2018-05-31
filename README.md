@@ -10,22 +10,12 @@ For VL conversion of Office 2016 C2R:
 1. Run Convert-Office2016C2R.cmd as Administrator.
 2. Done.
 
-## Defaults:
-Manual mode/No Auto-renewal Task (_Task=0); For auto-renewal task to be installed change it to _Task=1
-Offline mode (_OfflineMode=1); For Online mode change it to _OfflineMode=0
-Non-Debug mode (_Debug=0); For debug mode change it to _Debug=1
-Custom ePIDs (_RandomLevel=0); For random ePIDs change it to _RandomLevel=1 or 2
-
-## Install Auto-Renewal Task:
-- Open KMS-VL-ALL.cmd in Notepad, change _Task=0 to _Task=1, save and run.
-- Keep KMS-VL-ALL folder in the same location
-- Exclude the folder in Anti-Virus software
 
 ## Did not Work ?
 - Open KMS-VL-ALL.cmd in Notepad
 - Change _Debug=0 to _Debug=1
 - Run as Admin
-- Copy Paste the log file contents in CODE tags or upload the log file
+- Copy Paste the log file contents in CODE tags or upload the log file to [MDL](https://forums.mydigitallife.net/threads/kms_vl_all-online-offline-kms-activator.63471/)
 
 ## Supported Microsoft Products:
 (32-bit and 64-bit)
@@ -77,5 +67,4 @@ and MDL Community for feedback and bug reports.
 - replaced xcopy with robocopy (Thanks to rpo), but kept DEL lines for now, as Manual Users do not require them, need to think about merits and demerits of this.
 - Minor Cosmetics
 
-## SYNC from MDL
-https://forums.mydigitallife.net/threads/kms_vl_all-online-offline-kms-activator.63471/
+## SYNC from [MDL](https://forums.mydigitallife.net/threads/kms_vl_all-online-offline-kms-activator.63471/)
