@@ -38,7 +38,7 @@ For VL conversion of Office 2016 C2R:
 ###### Office 2016 C2R edition  
 
 ## Credits (In chronological order) :
-- qewlpal for batch create 
+- qewlpal for batch maintain 
 - ZWT, nosferati87, CODYQX4, letsgoawayhell, Phazor, mikmik38, deagles, FreeStyler, ColdZero, Hotbird64 and everyone who contributed to KMS Server emulator development
 - MasterDisaster for original script
 - abbodi1406 for Huge Contribution and Co-Authoring
