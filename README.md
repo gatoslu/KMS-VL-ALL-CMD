@@ -55,6 +55,12 @@ For VL conversion of Office 2016 C2R:
 and MDL Community for feedback and bug reports.
 
 ## Changelog:
+### 7.0RC2 [2018-06-07]
+- Debug log improvement (Thanks to @rpo and @abbodi1406 )
+- Use Symlinks instead of copying files into system32 directory (Thanks to @ch4os )
+- Added create task and renewal task switches as arguments (Thanks to @Soulfate )
+- Minor Cosmetics
+
 ### 7.0RC [2018-03-28]
 - Modified firewall rules (Thanks to abbodi1406)
 - Office product check bug fixes (Thanks to abbodi1406)
