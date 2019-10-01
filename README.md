@@ -56,7 +56,7 @@ and MDL Community for feedback and bug reports.
 
 ## Changelog:
 
-###7.2RC2 [2018-08-20]
+### 7.2RC2 [2018-08-20]
 - Use new SECO DLL (Thanks to @abbodi1406 )
 - Office 2010 on Windows 8.1 and later activation bug fixed (Thanks to @abbodi1406 )
 - Changes merged from @rpo
