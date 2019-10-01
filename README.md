@@ -6,7 +6,7 @@
 For KMS Activation of Volume Licensed Products:
 1. Run KMS-VL-ALL.cmd as Administrator.
 2. Done.
-For VL conversion of Office 2016 C2R:
+For VL conversion of Office 2013/2016/2019 C2R:
 1. Run Convert-Office2016C2R.cmd as Administrator.
 2. Done.
 
@@ -19,11 +19,12 @@ For VL conversion of Office 2016 C2R:
 
 ## Supported Microsoft Products:
 (32-bit and 64-bit)
-###### Windows Vista/7/8/8.1/10 (v1709 RS3) All VL Editions
-###### Windows Server 2008/2008R2/2012/2012R2/2016 (v1709 RS3) All Editions
-###### Office 2010 Family on Windows XP SP3 or later
+###### Windows Vista/7/8/8.1/10 (v1803) All VL Editions
+###### Windows Server 2008/2008R2/2012/2012R2/2016/2019 All Editions
+###### Office 2010 Family on Windows XP SP3 or newer
 ###### Office 2013 Family on Windows 7 or later
 ###### Office 2016 Family on Windows 7 SP1 or later
+###### Office 2019 Family on Windows 10 or later
 ###### Visual Studio 2013 Ultimate
 ###### Visual Studio 2015 Enterprise
 ###### Visual Studio 2017 Enterprise
