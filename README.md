@@ -55,6 +55,15 @@ For VL conversion of Office 2016 C2R:
 and MDL Community for feedback and bug reports.
 
 ## Changelog:
+
+###7.2RC2 [2018-08-20]
+- Use new SECO DLL (Thanks to @abbodi1406 )
+- Office 2010 on Windows 8.1 and later activation bug fixed (Thanks to @abbodi1406 )
+- Changes merged from @rpo
+- Bug reported by @Zopeman fixed
+- Minor changes
+
+
 ### 7.0RC2 [2018-06-07]
 - Debug log improvement (Thanks to @rpo and @abbodi1406 )
 - Use Symlinks instead of copying files into system32 directory (Thanks to @ch4os )
